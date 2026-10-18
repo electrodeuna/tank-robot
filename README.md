@@ -2,7 +2,7 @@
 
 Tanque robot controlado desde el navegador del celular, con joystick virtual, velocidad regulable y un modo autónomo que detecta obstáculos mediante un sensor ultrasónico HC-SR04.
 
-<img width="1672" height="941" alt="Miniatura-tanque2" src="https://github.com/user-attachments/assets/2a937031-8fb1-447f-bb8e-2611ada4dbef" />
+<img width="601" height="338" alt="Miniatura-tanque2 - copia" src="https://github.com/user-attachments/assets/f85af5a6-a5dc-457d-b2bf-c6eb66a11255" />
 
 El ESP8266 crea su propia red WiFi y aloja la interfaz de control. No necesita una aplicación instalada, router ni conexión a Internet para funcionar.
 
