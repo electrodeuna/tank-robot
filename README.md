@@ -29,7 +29,7 @@ Este documento describe el comportamiento de `TanqueRobot.ino`.
 | 2 | Resistencias para adaptar ECHO: 1 kΩ y 2 kΩ |
 | — | Cables, conectores y cable USB de datos |
 
-La capacidad y la tensión de la batería dependen de los motores y de la placa utilizada; el sketch no define un modelo de batería.
+La capacidad y la tensión de la batería dependen de los motores y de la placa utilizada.
 
 ## Conexiones
 
@@ -78,7 +78,7 @@ No alimentar los motores desde el pin 3V3 del ESP8266. Usar una fuente capaz de 
 
 3. En el Gestor de placas, instalar **esp8266 by ESP8266 Community**.
 4. Seleccionar la placa correspondiente al hardware, por ejemplo **LOLIN(WEMOS) D1 R2 & mini** o **NodeMCU 1.0 (ESP-12E Module)**.
-5. Guardar el sketch dentro de una carpeta llamada `TanqueRobotv2`, con el archivo `TanqueRobotv2.ino` en su interior, y abrirlo en Arduino IDE.
+5. Guardar el sketch dentro de una carpeta llamada `TanqueRobot`, con el archivo `TanqueRobot.ino` en su interior, y abrirlo en Arduino IDE.
 6. Conectar la placa con un cable USB de datos, seleccionar el puerto y cargar el programa.
 7. Abrir el Monitor Serie a **115200 baudios** para ver el inicio y la dirección IP.
 
